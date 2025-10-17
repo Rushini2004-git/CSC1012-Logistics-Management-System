@@ -1,0 +1,11 @@
+int deliverySource[MAX_DELIVERIES];
+int deliveryDestination[MAX_DELIVERIES];
+float deliveryWeight[MAX_DELIVERIES];
+int deliveryVehicleType[MAX_DELIVERIES];
+float deliveryCost[MAX_DELIVERIES];
+float fuelUsedList[MAX_DELIVERIES];
+float totalCostList[MAX_DELIVERIES];
+float profitList[MAX_DELIVERIES];
+float chargeList[MAX_DELIVERIES];
+float timeList[MAX_DELIVERIES];
+int deliveryCount= 0;
